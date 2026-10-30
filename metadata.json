@@ -1,0 +1,8 @@
+{
+  "name": "Blox Fruits Legends - RPG Level Up",
+  "description": "Um RPG de ação estilo Blox Fruits onde você sobe de nível, gira Frutas Míticas, desbloqueia ilhas lendárias, treina Haki e se torna o Rei dos Mares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
